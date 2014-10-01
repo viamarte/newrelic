@@ -1,3 +1,2 @@
-source 'https://supermarket.getchef.com'
-
-metadata
+source 'source "https://api.berkshelf.com"'
+cookbook "newrelic"
